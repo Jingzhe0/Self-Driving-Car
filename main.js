@@ -32,7 +32,7 @@ const traffic=[
     new Car(road.getLaneCenter(0),-300,30,50,"DUMMY",2),
     new Car(road.getLaneCenter(2),-300,30,50,"DUMMY",2),
     new Car(road.getLaneCenter(1),-500,30,50,"DUMMY",2),
-    new Car(road.getLaneCenter(0),-500,30,50,"DUMMY",2),
+    new Car(road.getLaneCenter(0),-700,30,50,"DUMMY",2),
     new Car(road.getLaneCenter(2),-800,30,50,"DUMMY",2)
 ];
 // car.draw(ctx);
